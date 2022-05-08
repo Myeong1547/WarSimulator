@@ -1,1 +1,1 @@
-# CJU_WarSimulator
+# WarSimulator
